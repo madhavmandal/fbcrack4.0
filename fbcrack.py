@@ -9,16 +9,16 @@ import logging
 os.system("clear")
 os.system("toilet -f mono12 -F crop FB Crack")
 print 
-print 'Author : Rahat Khan Tusar(RKT)'
+print 'Author : sha sweeta ()'
 print
 print 'Github : https://github.com/r3k4t'
 print
-print 'Information : This program can crack facebook account and recovery facebook password.Do not use vpn.If you use vpn and it is not work.'
+print 'Information 'https://www.facebook.com/sweta.sah.7549'
 print
 print 'Version : 4.0'
 print
-email = str(raw_input("Facebook Username (or) Email (or) Phone Number : "))
-passwordlist = str(raw_input("Enter the wordlist name and path : "))
+email = str(raw_input("sha sweeta"))
+passwordlist = str(raw_input("sha sweeta "))
 
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
